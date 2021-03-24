@@ -1,1 +1,2 @@
-# Implementing-Printf
+# Printf
+Implemented printf function in C.
